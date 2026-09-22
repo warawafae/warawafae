@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Wafae Barara 👋
 
-<!--
-**warawafae/warawafae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student at **ENSIAS (École Nationale Supérieure d'Informatique et d'Analyse des Systèmes)**, interested in **software development, Cloud, and DevOps**.
 
-Here are some ideas to get you started:
+I enjoy building web applications, designing distributed systems, and exploring technologies that improve the scalability, reliability, and automation of software systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Software Engineering Student @ ENSIAS
+- 💻 Interested in Full-Stack Development, Cloud & DevOps
+- 🚀 Currently looking for a Final-Year Internship (PFE)
+- 📍 Morocco
+
+## 🛠️ Tools & Technologies
+`Java` 
+`React`
+`Spring Boot` 
+`Docker` 
+`MongoDB`  `SQL Server`
+`Prometheus` `Grafana`
+`UML` `Merise`
+
+## 📫 How to reach me?
+
+- 📧 Email: **wafaebarara@gmail.com**
+- 💼 LinkedIn: [Wafae Barara](https://www.linkedin.com/in/wafae-barara-74087a323/)
+- 🐙 GitHub: [warawafae](https://github.com/warawafae)
+
+---
+
+⭐ Feel free to explore my repositories and projects!
